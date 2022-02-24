@@ -3,14 +3,28 @@
 #### By **Maryanne Njuguna**
 ## Description
 This is my first class work study using HTML, CSS, Git and Github. My sessions also enatils the ettiquete of keeping my project presentable at a glance
+
+
+## Live link
+https://themaryanjuguna.github.io/MSmy-first-webpage/
+
+
 ## Setup/Installation Requirements
-*Not Applicable
+Run git clone https://github.com/themaryanjuguna/MSmy-first-webpage.git in your remote folder 
+
+
 ## Known Bugs
-At the moment no bugs detected however feel free to report any typos or rookie mistakes.
+At the moment no bugs detected however feel free to report any typos or rookie mistakes via the contacts provided below.
+
+
 ## Technologies Used
 HTML, CSS
+
+
 ## Support and contact details
 If they run into any issues or have questions, ideas or concerns.  Please email themaryanjuguna@gmail.com, I'll appreciaete any kind of feedback
+
+
 ### License
 MIT License
 
